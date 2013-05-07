@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.imgresize {
+	height: auto;
+	max-width:100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #036;
+}
+ p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: #069;
+	font-size: 16px;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	color: #036;
+}
